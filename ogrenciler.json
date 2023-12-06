@@ -1,0 +1,28 @@
+{
+  "ogrenciler": [
+    {
+      "id": 1,
+      "ad": "Ahmet",
+      "soyad": "Yılmaz",
+      "devamsizlik": 5
+    },
+    {
+      "id": 2,
+      "ad": "Ayşe",
+      "soyad": "Demir",
+      "devamsizlik": 3
+    },
+    {
+      "id": 3,
+      "ad": "Deniz",
+      "soyad": "Karaca",
+      "devamsizlik": 5
+    },
+    {
+      "id": 4,
+      "ad": "Burak",
+      "soyad": "Şahin",
+      "devamsizlik": 5
+    }
+  ]
+}
